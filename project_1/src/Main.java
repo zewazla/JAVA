@@ -1,3 +1,5 @@
+//operatory arytmetyczne
+
 
 public class Main
 {
