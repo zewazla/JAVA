@@ -1,4 +1,4 @@
-//tablice jedno i wielowymiarowe
+//tablice jednowymiarowe
 
 public class Main
 {
@@ -15,5 +15,12 @@ public class Main
             System.out.println("Element tablicy = " + tab[i]);
         }
 
+//inny zapis tablicy
+
+        int table[] = {2,3,4};
+        for (int y : table)
+        {
+            System.out.println(y);
+        }
     }
 }
