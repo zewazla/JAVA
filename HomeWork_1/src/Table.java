@@ -5,5 +5,6 @@ public class Table {
 
             System.out.printf("%3d %5d %5d\n", a, a * a, a * a * a );
         }
+
     }
 }
