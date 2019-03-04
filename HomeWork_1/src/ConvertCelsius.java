@@ -7,7 +7,7 @@ public class ConvertCelsius {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Podaj stopnie Celsiusza: ");
-        
+
         double celsius = input.nextDouble();
 
         double fahrenhait = (9./5.) * celsius + 32;
