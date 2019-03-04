@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a2369c2-6ef4-4ea7-a549-0b13d745f1ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork_1/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork_1/Table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Table.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a2369c2-6ef4-4ea7-a549-0b13d745f1ee" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +11,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpeedRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#482#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PromienOkregu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntSecond.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="156" lean-forward="true" selection-end-column="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SecondsScaner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="166" selection-start-column="166" selection-end-column="166" />
             </state>
           </provider>
         </entry>
@@ -51,6 +74,9 @@
         <option value="$PROJECT_DIR$/src/Table.java" />
         <option value="$PROJECT_DIR$/src/ApproximatePi.java" />
         <option value="$PROJECT_DIR$/src/SpeedRunner.java" />
+        <option value="$PROJECT_DIR$/src/PromienOkregu.java" />
+        <option value="$PROJECT_DIR$/src/IntSecond.java" />
+        <option value="$PROJECT_DIR$/src/SecondsScaner.java" />
       </list>
     </option>
   </component>
@@ -105,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpeedRunner">
+  <component name="RunManager" selected="Application.SecondsScaner">
     <configuration name="ApproximatePi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ApproximatePi" />
       <module name="HomeWork_1" />
@@ -114,8 +140,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputeExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComputeExpressions" />
+    <configuration name="IntSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntSecond" />
+      <module name="HomeWork_1" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PromienOkregu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PromienOkregu" />
+      <module name="HomeWork_1" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondsScaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondsScaner" />
       <module name="HomeWork_1" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -130,22 +172,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummationOfaSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SummationOfaSeries" />
-      <module name="HomeWork_1" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Table" />
-      <module name="HomeWork_1" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -153,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Table" />
-      <item itemvalue="Application.ComputeExpressions" />
-      <item itemvalue="Application.SummationOfaSeries" />
       <item itemvalue="Application.ApproximatePi" />
       <item itemvalue="Application.SpeedRunner" />
+      <item itemvalue="Application.PromienOkregu" />
+      <item itemvalue="Application.IntSecond" />
+      <item itemvalue="Application.SecondsScaner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondsScaner" />
+        <item itemvalue="Application.IntSecond" />
+        <item itemvalue="Application.PromienOkregu" />
         <item itemvalue="Application.SpeedRunner" />
         <item itemvalue="Application.ApproximatePi" />
-        <item itemvalue="Application.Table" />
-        <item itemvalue="Application.SummationOfaSeries" />
-        <item itemvalue="Application.ComputeExpressions" />
       </list>
     </recent_temporary>
   </component>
@@ -268,11 +294,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SpeedRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#482#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PromienOkregu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="156" lean-forward="true" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondsScaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="166" selection-start-column="166" selection-end-column="166" />
         </state>
       </provider>
     </entry>
