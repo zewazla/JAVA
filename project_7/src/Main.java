@@ -1,15 +1,24 @@
 import java.util.Scanner;
 
 public class Main {
+
+    public static int dosomething(int a){
+        System.out.println("dosomething "+a);
+        return a * 3;
+    }
+
     public static void main(String[] arg) {
+
+        int wynik = dosomething(4);
+
         //zadanie 1.1
         System.out.println("---------- zadanie 1.1 ---------\n");
-        System.out.println("Hello World");
+        System.out.println(1./2);
 
         //zadanie 1.2
         int x = 1;
         System.out.println("----------- zadanie 1.2 --------------");
-        System.out.printf("%-10d%-10d%-10d\n", x, x * x, x * x * x);
+        System.out.printf("%-10d%-13d%-10d\n", x, x * x, x * x * x);
         System.out.printf("%-10d%-10d%-10d\n", x, x * x, x * x * x);
 
         //zadanie 1.5
