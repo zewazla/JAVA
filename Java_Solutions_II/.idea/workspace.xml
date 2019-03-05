@@ -54,6 +54,7 @@
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Table.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/VolumeOfCylinder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BMI_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMI_Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/project_1.iml" beforeDir="false" />
@@ -149,8 +150,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BMI_Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="213">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="e#0#492#0" expanded="true" />
               </folding>
@@ -278,10 +279,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293011" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BMI_Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="213">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="e#0#492#0" expanded="true" />
           </folding>
