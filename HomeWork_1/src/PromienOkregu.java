@@ -6,7 +6,6 @@ public class PromienOkregu {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Podaj promien r:");
-
         final double pi = 3.14;
         int r;
         r = scanner.nextInt();

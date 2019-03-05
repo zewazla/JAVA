@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a2369c2-6ef4-4ea7-a549-0b13d745f1ee" name="Default Changelist" comment="" />
+    <list default="true" id="7a2369c2-6ef4-4ea7-a549-0b13d745f1ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PromienOkregu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PromienOkregu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReformatCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReformatCode.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,45 +15,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConvertCelsius.java">
+        <entry file="file://$PROJECT_DIR$/src/ConvertPoundsIntoKilograms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#288#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VolumeOfCylinder.java">
+        <entry file="file://$PROJECT_DIR$/src/SumTheDigitsInAnInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="476">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding>
-                <element signature="e#0#275#0" expanded="true" />
+                <element signature="e#0#364#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FeetConvert.java">
+        <entry file="file://$PROJECT_DIR$/src/FindTheNumberOfYears.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <element signature="e#0#336#0" expanded="true" />
+                <element signature="e#0#748#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SecondsScaner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -71,23 +70,26 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Welcome.java" />
         <option value="$PROJECT_DIR$/src/FiveTimesJava.java" />
-        <option value="$PROJECT_DIR$/src/PatternJava.java" />
         <option value="$PROJECT_DIR$/src/ComputeExpressions.java" />
         <option value="$PROJECT_DIR$/src/SummationOfaSeries.java" />
         <option value="$PROJECT_DIR$/src/ApproximatePi.java" />
         <option value="$PROJECT_DIR$/src/SpeedRunner.java" />
-        <option value="$PROJECT_DIR$/src/PromienOkregu.java" />
         <option value="$PROJECT_DIR$/src/IntSecond.java" />
         <option value="$PROJECT_DIR$/src/SecondsScaner.java" />
         <option value="$PROJECT_DIR$/src/Division.java" />
         <option value="$PROJECT_DIR$/src/IncremDecrem.java" />
-        <option value="$PROJECT_DIR$/src/ReformatCode.java" />
         <option value="$PROJECT_DIR$/src/Scanner.java" />
         <option value="$PROJECT_DIR$/src/StringScanner.java" />
         <option value="$PROJECT_DIR$/src/Table.java" />
         <option value="$PROJECT_DIR$/src/ConvertCelsius.java" />
         <option value="$PROJECT_DIR$/src/VolumeOfCylinder.java" />
         <option value="$PROJECT_DIR$/src/FeetConvert.java" />
+        <option value="$PROJECT_DIR$/src/PatternJava.java" />
+        <option value="$PROJECT_DIR$/src/PromienOkregu.java" />
+        <option value="$PROJECT_DIR$/src/ReformatCode.java" />
+        <option value="$PROJECT_DIR$/src/ConvertPoundsIntoKilograms.java" />
+        <option value="$PROJECT_DIR$/src/SumTheDigitsInAnInteger.java" />
+        <option value="$PROJECT_DIR$/src/FindTheNumberOfYears.java" />
       </list>
     </option>
   </component>
@@ -120,8 +122,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,9 +144,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FeetConvert">
+  <component name="RunManager" selected="Application.FindTheNumberOfYears">
     <configuration name="ConvertCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertCelsius" />
+      <module name="HomeWork_1" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertPoundsIntoKilograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertPoundsIntoKilograms" />
       <module name="HomeWork_1" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -159,24 +169,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringScanner" />
+    <configuration name="FindTheNumberOfYears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindTheNumberOfYears" />
       <module name="HomeWork_1" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Table" />
-      <module name="HomeWork_1" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VolumeOfCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VolumeOfCylinder" />
+    <configuration name="SumTheDigitsInAnInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumTheDigitsInAnInteger" />
       <module name="HomeWork_1" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -190,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringScanner" />
-      <item itemvalue="Application.Table" />
       <item itemvalue="Application.ConvertCelsius" />
-      <item itemvalue="Application.VolumeOfCylinder" />
       <item itemvalue="Application.FeetConvert" />
+      <item itemvalue="Application.ConvertPoundsIntoKilograms" />
+      <item itemvalue="Application.SumTheDigitsInAnInteger" />
+      <item itemvalue="Application.FindTheNumberOfYears" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheNumberOfYears" />
+        <item itemvalue="Application.SumTheDigitsInAnInteger" />
+        <item itemvalue="Application.ConvertPoundsIntoKilograms" />
         <item itemvalue="Application.FeetConvert" />
         <item itemvalue="Application.ConvertCelsius" />
-        <item itemvalue="Application.VolumeOfCylinder" />
-        <item itemvalue="Application.Table" />
-        <item itemvalue="Application.StringScanner" />
       </list>
     </recent_temporary>
   </component>
@@ -218,8 +220,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12017995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.121465296" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -279,13 +282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PatternJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputeExpressions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -304,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ApproximatePi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SpeedRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -318,13 +307,6 @@
           <folding>
             <element signature="e#0#482#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PromienOkregu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -349,16 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReformatCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/src/Table.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -374,12 +346,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FeetConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/VolumeOfCylinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="e#0#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertCelsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApproximatePi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PatternJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PromienOkregu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReformatCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#459#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -391,19 +411,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConvertCelsius.java">
+    <entry file="file://$PROJECT_DIR$/src/ConvertPoundsIntoKilograms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#288#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FeetConvert.java">
+    <entry file="file://$PROJECT_DIR$/src/SumTheDigitsInAnInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="476">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding>
-            <element signature="e#0#336#0" expanded="true" />
+            <element signature="e#0#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindTheNumberOfYears.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#748#0" expanded="true" />
           </folding>
         </state>
       </provider>
