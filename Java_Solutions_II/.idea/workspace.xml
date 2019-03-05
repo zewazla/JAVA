@@ -54,7 +54,6 @@
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Table.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/VolumeOfCylinder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BMI_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMI_Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/project_1.iml" beforeDir="false" />
@@ -147,13 +146,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BMI_Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
               <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="e#0#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MoneyChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#596#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,6 +186,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/BMI_Calculator.java" />
+        <option value="$PROJECT_DIR$/src/MoneyChange.java" />
       </list>
     </option>
   </component>
@@ -221,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BMI_Calculator">
+  <component name="RunManager" selected="Application.MoneyChange">
     <configuration name="BMI_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BMI_Calculator" />
       <module name="Java_Solutions_II" />
@@ -241,6 +253,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoneyChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoneyChange" />
+      <module name="Java_Solutions_II" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -250,9 +270,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BMI_Calculator" />
+      <item itemvalue="Application.MoneyChange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoneyChange" />
         <item itemvalue="Application.BMI_Calculator" />
         <item itemvalue="Application.Main" />
       </list>
@@ -308,6 +330,16 @@
           <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="e#0#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoneyChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#596#0" expanded="true" />
           </folding>
         </state>
       </provider>
