@@ -7,7 +7,7 @@ public class Tab2 {
     //        kasa = kasa % nominal
     //krok 3: wypisz ilosc monet i nominal
     //krok 4: wez kolejny nominal z tablicy i skocz do kroku 2
-    
+
     public static void main(String[] args){
         double nominaly[] = {5, 2, 1, .5, .2, .1, .02, .01};
 

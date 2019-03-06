@@ -54,8 +54,6 @@
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Table.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/VolumeOfCylinder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Solutions_II/Tab2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Solutions_II/Tab2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tab2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project_1/.idea/modules.xml" beforeDir="false" />
@@ -149,11 +147,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tab2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RandomIntDouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RandomZadanie_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RandomDoubleFloat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RandomDFxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RandomFloat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -181,6 +218,11 @@
         <option value="$PROJECT_DIR$/src/tab.java" />
         <option value="$USER_HOME$/Documents/LaTex/CV_BM.tex" />
         <option value="$PROJECT_DIR$/src/Tab2.java" />
+        <option value="$PROJECT_DIR$/src/RandomDoubleFloat.java" />
+        <option value="$PROJECT_DIR$/src/RandomDFxy.java" />
+        <option value="$PROJECT_DIR$/src/RandomFloat.java" />
+        <option value="$PROJECT_DIR$/src/RandomIntDouble.java" />
+        <option value="$PROJECT_DIR$/src/RandomZadanie_1.java" />
       </list>
     </option>
   </component>
@@ -235,25 +277,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tab2">
-    <configuration name="Math_sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sqrt_abs.Math_sqrt" />
+  <component name="RunManager" selected="Application.RandomZadanie_1">
+    <configuration name="RandomDFxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomDFxy" />
       <module name="Java_Solutions_II" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoneyChange" />
+    <configuration name="RandomDoubleFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomDoubleFloat" />
       <module name="Java_Solutions_II" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyChangeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoneyChangeII" />
+    <configuration name="RandomIntDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomIntDouble" />
+      <module name="Java_Solutions_II" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomZadanie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomZadanie_1" />
       <module name="Java_Solutions_II" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -274,28 +324,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tab" />
-      <module name="Java_Solutions_II" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.MoneyChange" />
-      <item itemvalue="Application.Math_sqrt" />
-      <item itemvalue="Application.MoneyChangeII" />
-      <item itemvalue="Application.tab" />
       <item itemvalue="Application.Tab2" />
+      <item itemvalue="Application.RandomIntDouble" />
+      <item itemvalue="Application.RandomDoubleFloat" />
+      <item itemvalue="Application.RandomDFxy" />
+      <item itemvalue="Application.RandomZadanie_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomZadanie_1" />
+        <item itemvalue="Application.RandomDFxy" />
+        <item itemvalue="Application.RandomDoubleFloat" />
+        <item itemvalue="Application.RandomIntDouble" />
         <item itemvalue="Application.Tab2" />
-        <item itemvalue="Application.MoneyChange" />
-        <item itemvalue="Application.MoneyChangeII" />
-        <item itemvalue="Application.tab" />
-        <item itemvalue="Application.Math_sqrt" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +453,45 @@
     <entry file="file://$PROJECT_DIR$/src/Tab2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomDoubleFloat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomDFxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomFloat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomIntDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomZadanie_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
