@@ -7,7 +7,7 @@ public class Tab2 {
     //        kasa = kasa % nominal
     //krok 3: wypisz ilosc monet i nominal
     //krok 4: wez kolejny nominal z tablicy i skocz do kroku 2
-
+    
     public static void main(String[] args){
         double nominaly[] = {5, 2, 1, .5, .2, .1, .02, .01};
 
@@ -19,7 +19,7 @@ public class Tab2 {
         for (double nominal: nominaly){
             int ilosc_montet = (int)(kasa /nominal);
             kasa = kasa % nominal;
-            System.out.printf("[%d]: %3f\n",ilosc_montet, nominal);
+            System.out.printf("[%3d]:%3f\n",ilosc_montet, nominal);
 
 
         }
