@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f7d5795-6f35-488b-a83f-916c8fa3610d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/HomeWork_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/ApproximatePi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/ComputeExpressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/ConvertCelsius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/ConvertPoundsIntoKilograms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/FeetConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/FindTheNumberOfYears.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/FiveTimesJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/IncremDecrem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/IntSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/META-INF/HomeWork_1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/PatternJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/PromienOkregu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/ReformatCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/SecondsScaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/SpeedRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/StringScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/SumTheDigitsInAnInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/SummationOfaSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/VolumeOfCylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/out/production/HomeWork_1/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/ApproximatePi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/BMI_MassIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/ComputeExpressions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/ConvertCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/ConvertPoundsIntoKilograms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/FeetConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/FindTheNumberOfYears.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/FiveTimesJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/IncremDecrem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/IntSecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/PatternJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/PromienOkregu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/ReformatCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/SecondsScaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/SpeedRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/StringScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/SumTheDigitsInAnInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/SummationOfaSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/VolumeOfCylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/src/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_1/.idea/project_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_2/.idea/project_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/out/production/project_3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/project_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/out/production/project_4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/project_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/out/production/project_5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/project_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/out/production/project_6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/project_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/out/production/project_7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/project_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/out/production/project_8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/project_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project_8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/funkcja zwraca ocene/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/funkcja_program zwraca liczby pierwsze z podanego przedzialu/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/funkcja_suma_return/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_%3d_tabliczka mnozenia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_break_program wypisuje liczby z zakresu i zatrzymuje sie przy podanej wartosci/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_break_przyklad z samochodem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_continue_przyklad z telefonem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_drukowanie wszystkich liczb od 1 do 10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_dwa programy_ wypisuje liczby z zakresu co druga i co pierwsza/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_program wypisuje liczby nieparzyste z przedzialu/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_program_wypisuje_liczby_parzyste_z_przedziału 1 do 100/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_for_tabliczka mnozenia w kolumnie/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_while_and_do_while/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_while_program sumuje liczby wpisane przez uzytkownika_konczy program przy wpisaniu 0/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_while_program sumuje liczby wpisane przez uzytkownika_konczy program przy wpisaniu 0/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_while_program wypisuje liczby 1 3 9 27 81 z przedzialu/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_while_s plus plus wynik 55/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/petla_while_zgadnij liczbe wylosowana przez komputer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/random/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/random_rok_przestępny/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/random_wylosowana_liczba_jest_podzielna_przez_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadania Java 3_03/scanner_switch/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SumaLiczbCoDwa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SumaLiczbCoDwa_for.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SumaLiczbCoDwa_for.java" />
+        <option value="$PROJECT_DIR$/src/SumaLiczbCoDwa.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="271" />
+    <option name="width" value="800" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_Solutions_III" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Solutions_III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Solutions_III" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Solutions_III" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SumaLiczbCoDwa_for">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java_Solutions_III" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaLiczbCoDwa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumaLiczbCoDwa" />
+      <module name="Java_Solutions_III" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaLiczbCoDwa_for" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumaLiczbCoDwa_for" />
+      <module name="Java_Solutions_III" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SumaLiczbCoDwa" />
+      <item itemvalue="Application.SumaLiczbCoDwa_for" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumaLiczbCoDwa_for" />
+        <item itemvalue="Application.SumaLiczbCoDwa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f7d5795-6f35-488b-a83f-916c8fa3610d" name="Default Changelist" comment="" />
+      <created>1551892893835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551892893835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293011" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumaLiczbCoDwa_for.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumaLiczbCoDwa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumaLiczbCoDwa_for.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
