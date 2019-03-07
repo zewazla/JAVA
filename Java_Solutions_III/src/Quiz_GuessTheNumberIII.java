@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class Quiz_GuessTheNumberIII {
     public static void main(String[] args) {
+        long startTime = System.currentTimeMillis();
+
         Random random = new Random();
         int komputer = random.nextInt(10);
 
@@ -15,17 +17,23 @@ public class Quiz_GuessTheNumberIII {
         System.out.println("Podaj liczbę w zakresie od 1 do 10:");
         int liczba = input.nextInt();
 
-        while (liczba != komputer){
+        while (liczba != komputer) {
 
-            if (liczba > komputer){
+            if (liczba > komputer) {
                 System.out.println("Za duża. Próbuj dalej...");
-            }   else if (liczba < komputer){
+            } else if (liczba < komputer) {
                 System.out.println("Za mała. Próbuj dalej...");
             }
             liczba = input.nextInt();
         }
         System.out.println("BRAWO! Odgadłeś tajemniczą liczbę.");
 
+        long endTime = System.currentTimeMillis();
+        long testTime = endTime - startTime;
+
+        System.out.println("Twój czas: " + testTime/1000 + " sekundy");
+
     }
+
 }
 
