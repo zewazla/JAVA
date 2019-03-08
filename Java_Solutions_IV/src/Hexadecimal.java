@@ -14,6 +14,7 @@ public class Hexadecimal {
             int x = liczba % 16;        //reszta z dzielenia przez 16
             liczba = liczba / 16;       //wynik dzielenia przez 16
 
+            String result ="";
             {
                 if (x == 0)
                 System.out.println("0");
