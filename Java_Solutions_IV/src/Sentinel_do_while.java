@@ -1,3 +1,8 @@
+//pętla do while
+// Program sumuje liczby podane przez użytkownika.
+// Po wpisaniu przez użytkownika cyfry 0 program kończy działanie i podaje ostateczną sumę.
+// 0 jest wartownikiem /strażnikiem --> Sentinel
+
 import java.util.Scanner;
 
 public class Sentinel_do_while {
